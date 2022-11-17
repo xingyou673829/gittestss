@@ -6,5 +6,6 @@ public class Gitjava {
         System.out.println("nihao");
         System.out.println("hot-fix to fix");
         System.out.println("master-fix-v1");
+        System.out.println("hot-fix to fix-v2");
     }
 }
