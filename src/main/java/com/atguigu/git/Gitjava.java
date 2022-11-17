@@ -5,5 +5,6 @@ public class Gitjava {
         System.out.println("hello git");
         System.out.println("nihao");
         System.out.println("hot-fix to fix");
+        System.out.println("master-fix-v1");
     }
 }
