@@ -7,5 +7,6 @@ public class Gitjava {
         System.out.println("hot-fix to fix");
         System.out.println("master-fix-v1");
         System.out.println("hot-fix to fix-v2");
+        System.out.println("push test");
     }
 }
